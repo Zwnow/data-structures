@@ -50,6 +50,7 @@ class Stack<T> {
 
 // Tests
 let stack = new Stack();
+stack.pop();
 stack.push(1);
 stack.push(3);
 stack.push(3);
